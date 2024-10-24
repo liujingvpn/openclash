@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,mini4k.com
 
 # Iqiyi 爱奇艺
 USER-AGENT,QYPlayer*
