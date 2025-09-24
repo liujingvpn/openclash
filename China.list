@@ -3,7 +3,19 @@
 # 本地/局域网地址
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
-HOST-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,anrdoezrs.net
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,galaxymobile.jp
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,115img.com
